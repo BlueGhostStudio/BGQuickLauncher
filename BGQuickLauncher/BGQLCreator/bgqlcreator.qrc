@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>template/qml.qml</file>
+        <file>template/js.js</file>
+        <file>template/shell.qml</file>
+        <file>template/qmldir</file>
+        <file>imgs/ghost.png</file>
+    </qresource>
+</RCC>

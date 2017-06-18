@@ -1,0 +1,10 @@
+{
+    "normal": "black",
+    "keyword": "#808000",
+    "type": "#800080",
+    "error": "#cccccc",
+    "symbol": "#0055ff",
+    "comment": "#008000",
+    "number": "#000080",
+    "string": "#008000"
+}

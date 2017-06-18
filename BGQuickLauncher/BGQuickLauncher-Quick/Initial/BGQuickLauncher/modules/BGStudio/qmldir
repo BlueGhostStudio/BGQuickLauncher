@@ -1,0 +1,4 @@
+module BGStudio
+plugin BGStudio
+BGIcons 1.0 BGIcons.js
+BGMis 1.0 BGMis.js

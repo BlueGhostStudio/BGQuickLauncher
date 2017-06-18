@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>syntaxHighlighter/syntax_qmljs.json</file>
+        <file>syntaxHighlighter/highlighter.json</file>
+    </qresource>
+</RCC>

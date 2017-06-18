@@ -1,0 +1,36 @@
+module BGControls
+plugin BGControls
+BGSynHLEdit 1.0 BGSynHLEdit.qml
+
+BGButton 1.0 BGButton_1.1.qml
+BGTabBar 1.0 BGTabBar_1.1.qml
+BGTabButton 1.0 BGTabButton_1.1.qml
+
+BGSlider 1.0 BGSlider.qml
+BGSliderStep 1.0 BGSliderStep.qml
+BGRadioGroup 1.0 BGRadioGroup.qml
+BGLineEdit 1.0 BGLineEdit.qml
+BGTextEdit 1.0 BGTextEdit.qml
+BGField 1.0 BGField.qml
+BGFieldLayout 1.0 BGFieldLayout.qml
+singleton BGCtrlStyle 1.0 BGCtrlStyle.qml
+BGCtrlStyleSetter 1.0 BGCtrlStyleSetter.js
+BGComboBox 1.0 BGComboBox.qml
+BGMenu 1.0 BGMenu.qml
+BGFileView 1.0 BGFileView.qml
+BGDialog 1.0 BGDialog.qml
+BGColorSelector 1.0 BGColorSelector.qml
+BGColorDialog 1.0 BGColorDialog.qml
+BGPane 1.0 BGPane.qml
+BGPage 1.0 BGPage.qml
+BGDrawer 1.0 BGDrawer.qml
+BGText 1.0 BGText.qml
+BGMessageBox 1.0 BGMessageBox.qml
+BGArea 1.0 BGArea.qml
+BGCard 1.0 BGCard.qml
+BGCardNew 1.0 BGCardNew.qml
+
+RingMenu 1.0 RingMenu.qml
+RingMenuDelegateModel 1.0 RingMenuDelegateModel.qml
+RingMenuObjectModel 1.0 RingMenuObjectModel.qml
+DefaultRingMenuModel 1.0 DefaultRingMenuModel.qml
