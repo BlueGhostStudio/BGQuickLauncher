@@ -5,5 +5,5 @@ SUBDIRS = \
     BGQLCommon \
     BGStudio \
     BGControls \
-    BGCanvas \
-    BGQLCreator
+    BGCanvas
+#SUBDIRS += BGQLCreator
